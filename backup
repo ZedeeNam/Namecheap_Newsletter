@@ -1,0 +1,82 @@
+<!-- start of hot offers table -->
+							<table class="hot-offers-table" width="100%" border="0" cellpadding="0" cellspacing="0" style="background: white;">
+								<tr>
+									<td style="padding: 56px 32px 56px 32px;">
+										<!-- start of hot offers row -->
+										<table class="hot-offers-row" width="100%" border="0" cellpadding="0" cellspacing="0">
+											<tr>
+												<td align="center">
+													<p style="font-family: 'Open Sans', sans-serif; font-size: 14px; text-transform: uppercase; border-radius: 20px; border: none; background: #f2f2f2; margin: 0 230px; padding: 5px;">Hot Offers</p>
+												</td>
+											</tr>
+										</table>
+										<!-- end of hot offers row -->
+										<!-- start of monthly specials row -->
+										<table class="monthly-specials" width="100%" border="0" cellpadding="0" cellspacing="0" style="padding: 0 0 50px;">
+											<tr>
+												<td align="center">
+													<h2 style="color: #666261; font-family: 'Open Sans', sans-serif; font-size: 31px; color: #666261; margin: 20px 0 10px 0;">Zebedee's Monthly Specials</h2>
+													<h4 style="font-family: 'Open Sans', sans-serif; font-size: 19px; font-weight: 300; color: #6d6e70; margin: 0;">We've handpicked the best deals for you</h4>
+												</td>
+											</tr>
+										</table>
+										<!-- end of monthly specials row -->
+										<!-- start of deals table -->
+										<table class="deals-row" width="100%" border="0" cellpadding="0" cellspacing="0">
+											<tr>
+												<td>
+													<!-- start of business email column -->
+													<table class="business-email-row" width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="margin: 0; border: 1px solid #eeeeef; border-radius: 5px; background: #fcfcfc;">
+														<tr>
+															<td style="text-align: center; padding: 15px 18px 26px 18px;">
+																<img src="img/email.png" alt="" align="center" width="40%">
+																<h4 style="font-family: 'Open Sans', sans-serif; font-size: 19px; font-weight: 500; color: #6d6e70; margin: 10px 0 0 0;">Business Email</h4>
+																<p style="margin: 0; color: #a4a5a7; font-size: 13.5px; font-family: 'Open Sans', sans-serif;">Best Value</p>
+																<p style="margin: 15px 0 45px 0; color: #4a4a4a; font-size: 31px; font-family: 'Open Sans', sans-serif; font-weight: 700;">$2.41<span style="font-size: 18px;">/mo</span></p>
+																<a href="#" style="color: white; background: #f14722; padding: 7.5px 35px; border-radius: 4.5px; font-family: 'Open sans', sans-serif; text-decoration: none;">Try It Now</a>
+															</td>
+														</tr>
+													</table>
+													<!-- end of business email column -->
+												</td>
+											</tr>
+											<tr>
+												<td>
+													<!-- start of easywp column -->
+													<table class="easy-wp" width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="margin: 0 10px; border: 1px solid #eeeeef; border-radius: 5px; background: #fcfcfc;">
+														<tr>
+															<td style="text-align: center; padding: 15px 18px 26px 18px;">
+																<img src="img/email.png" alt="" align="center" width="40%">
+																<h4 style="font-family: 'Open Sans', sans-serif; font-size: 19px; font-weight: 500; color: #6d6e70; margin: 10px 0 0 0;">EasyWP</h4>
+																<p style="margin: 0; color: #a4a5a7; font-size: 13.5px; font-family: 'Open Sans', sans-serif;">WordPress Hosting</p>
+																<p style="margin: 15px 0 45px 0; color: #4a4a4a; font-size: 31px; font-family: 'Open Sans', sans-serif; font-weight: 700;">$1<span style="font-size: 18px;">/mo</span></p>
+																<a href="#" style="color: white; background: #f14722; padding: 7.5px 29px; border-radius: 4.5px; font-family: 'Open sans', sans-serif; text-decoration: none;">Get EasyWP</a>
+															</td>
+														</tr>
+													</table>
+													<!-- end of easywp column -->
+												</td>
+											</tr>
+											<tr>
+												<td>
+													<!-- start of .art column -->
+													<table class="ART" width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="margin: 0; border: 1px solid #eeeeef; border-radius: 5px; background: #fcfcfc;">
+														<tr>
+															<td style="text-align: center; padding: 15px 18px 26px 18px;">
+																<img src="img/email.png" alt="" align="center" width="40%">
+																<h4 style="font-family: 'Open Sans', sans-serif; font-size: 19px; font-weight: 500; color: #6d6e70; margin: 10px 0 0 0;">.ART</h4>
+																<p style="margin: 0; color: #a4a5a7; font-size: 13.5px; font-family: 'Open Sans', sans-serif;">Domain Registration</p>
+																<p style="margin: 15px 0 45px 0; color: #4a4a4a; font-size: 31px; font-family: 'Open Sans', sans-serif; font-weight: 700;">$8.88<span style="font-size: 18px;">/yr</span></p>
+																<a href="#" style="color: white; background: #f14722; padding: 7.5px 35px; border-radius: 4.5px; font-family: 'Open sans', sans-serif; text-decoration: none;">Try It Now</a>
+															</td>
+														</tr>
+													</table>
+													<!-- end of art column -->
+												</td>
+											</tr>
+										</table>
+										<!-- end of deals table -->
+									</td>
+								</tr>
+							</table>
+							<!-- end of hot offers table -->
